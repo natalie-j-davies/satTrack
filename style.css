@@ -1,0 +1,20 @@
+#map { height: 640px;
+    width: 50%; 
+    margin: 0 auto;
+    }
+body{
+    background-color: lightcyan;
+}
+    .header{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px;
+}
+.tude{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 2px solid;
+    width: 200px;
+    margin: 0 auto;
+    background-color: aliceblue;
+}
